@@ -1,7 +1,4 @@
-# Minimal ![Build Status](https://travis-ci.org/avjinder/Minimal-Todo.svg?branch=master)
 
 # Screenshots:
-<img src="https://github.com/avjinder/Toodle/blob/master/screenshots/screenshot_notification.png" height="400px"/>
-<img src="https://github.com/avjinder/Toodle/blob/master/screenshots/screenshot_todo_snooze.png" height="400px"/>
-
-
+<a href="https://zupimages.net/viewer.php?id=21/12/n5tg.png"><img src="https://zupimages.net/up/21/12/n5tg.png" alt="" /></a>
+<a href="https://zupimages.net/viewer.php?id=21/12/0kqe.png"><img src="https://zupimages.net/up/21/12/0kqe.png" alt="" /></a>
