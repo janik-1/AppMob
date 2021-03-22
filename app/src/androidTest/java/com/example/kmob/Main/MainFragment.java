@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.Main;
+package com.example.kmob.Main;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;

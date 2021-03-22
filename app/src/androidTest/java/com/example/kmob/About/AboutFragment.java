@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.About;
+package com.example.kmob.About;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;

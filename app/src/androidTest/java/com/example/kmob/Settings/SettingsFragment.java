@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.Settings;
+package com.example.kmob.Settings;
 
 import android.content.Context;
 import android.content.SharedPreferences;

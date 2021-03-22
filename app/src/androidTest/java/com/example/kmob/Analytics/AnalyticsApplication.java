@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.Analytics;
+package com.example.kmob.Analytics;
 
 import android.app.Application;
 import android.content.pm.PackageManager;

@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.kMain;
+package com.example.kmob.Main;
 
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;

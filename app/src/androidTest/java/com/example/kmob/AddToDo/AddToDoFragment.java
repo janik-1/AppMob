@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.AddToDo;
+package com.example.kmob.AddToDo;
 
 import android.animation.Animator;
 import android.content.ClipData;

@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.AppDefault;
+package com.example.kmob.AppDefault;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;

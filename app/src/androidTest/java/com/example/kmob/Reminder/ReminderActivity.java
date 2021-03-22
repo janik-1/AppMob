@@ -1,4 +1,4 @@
-package com.example.avjindersinghsekhon.minimaltodo.Reminder;
+package com.example.kmob.Reminder;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
