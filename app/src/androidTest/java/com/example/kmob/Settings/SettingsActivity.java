@@ -10,9 +10,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.kmob.Main.MainFragment;
+import com.example.kmob.R;
 
 public class SettingsActivity extends AppCompatActivity {
 

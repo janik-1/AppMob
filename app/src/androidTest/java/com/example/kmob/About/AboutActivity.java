@@ -13,10 +13,10 @@ import android.util.Log;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultActivity;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.kmob.AppDefault.AppDefaultActivity;
+import com.example.kmob.Main.MainFragment;
+import com.example.kmob.minimaltodo.R;
 
 public class AboutActivity extends AppDefaultActivity {
 

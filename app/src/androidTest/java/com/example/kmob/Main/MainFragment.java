@@ -29,19 +29,19 @@ import android.widget.TextView;
 
 import com.amulyakhare.textdrawable.TextDrawable;
 import com.amulyakhare.textdrawable.util.ColorGenerator;
-import com.example.avjindersinghsekhon.minimaltodo.About.AboutActivity;
-import com.example.avjindersinghsekhon.minimaltodo.AddToDo.AddToDoActivity;
-import com.example.avjindersinghsekhon.minimaltodo.AddToDo.AddToDoFragment;
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
-import com.example.avjindersinghsekhon.minimaltodo.Reminder.ReminderFragment;
-import com.example.avjindersinghsekhon.minimaltodo.Settings.SettingsActivity;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.ItemTouchHelperClass;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.RecyclerViewEmptySupport;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.StoreRetrieveData;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.ToDoItem;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.TodoNotificationService;
+import com.example.kmob.About.AboutActivity;
+import com.example.kmob.AddToDo.AddToDoActivity;
+import com.example.kmob.AddToDo.AddToDoFragment;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.akmob.AppDefault.AppDefaultFragment;
+import com.example.kmob.R;
+import com.example.kmob.Reminder.ReminderFragment;
+import com.example.kmob.Settings.SettingsActivity;
+import com.example.akmob.Utility.ItemTouchHelperClass;
+import com.example.kmob.Utility.RecyclerViewEmptySupport;
+import com.example.kmob.Utility.StoreRetrieveData;
+import com.example.kmob.Utility.ToDoItem;
+import com.example.kmob.Utility.TodoNotificationService;
 
 import org.json.JSONException;
 

@@ -4,8 +4,8 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultActivity;
-import com.example.avjindersinghsekhon.minimaltodo.R;
+import com.example.kmob.AppDefault.AppDefaultActivity;
+import com.example.kmob.R;
 
 public class AddToDoActivity extends AppDefaultActivity {
     @SuppressWarnings("deprecation")

@@ -6,10 +6,10 @@ import android.os.Bundle;
 import android.preference.CheckBoxPreference;
 import android.preference.PreferenceFragment;
 
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.PreferenceKeys;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.kmob.Main.MainFragment;
+import com.example.kmob.R;
+import com.example.kmob.Utility.PreferenceKeys;
 
 public class SettingsFragment extends PreferenceFragment implements SharedPreferences.OnSharedPreferenceChangeListener {
     AnalyticsApplication app;

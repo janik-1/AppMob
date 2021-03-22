@@ -31,12 +31,12 @@ import android.widget.TextView;
 import android.content.ClipboardManager;
 import android.widget.Toast;
 
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultFragment;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainActivity;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.ToDoItem;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.kmob.AppDefault.AppDefaultFragment;
+import com.example.kmob.Main.MainActivity;
+import com.example.kmob.Main.MainFragment;
+import com.example.kmob.R;
+import com.example.kmob.Utility.ToDoItem;
 import com.wdullaer.materialdatetimepicker.date.DatePickerDialog;
 import com.wdullaer.materialdatetimepicker.time.RadialPickerLayout;
 import com.wdullaer.materialdatetimepicker.time.TimePickerDialog;

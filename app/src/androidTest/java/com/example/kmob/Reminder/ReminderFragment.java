@@ -15,14 +15,14 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultFragment;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainActivity;
-import com.example.avjindersinghsekhon.minimaltodo.Main.MainFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.StoreRetrieveData;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.ToDoItem;
-import com.example.avjindersinghsekhon.minimaltodo.Utility.TodoNotificationService;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.kmob.AppDefault.AppDefaultFragment;
+import com.example.kmob.Main.MainActivity;
+import com.example.kmob.Main.MainFragment;
+import com.example.kmob.R;
+import com.example.kmob.Utility.StoreRetrieveData;
+import com.example.kmob.Utility.ToDoItem;
+import com.example.kmob.Utility.TodoNotificationService;
 
 import org.json.JSONException;
 

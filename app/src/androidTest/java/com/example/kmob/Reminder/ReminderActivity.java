@@ -3,8 +3,8 @@ package com.example.kmob.Reminder;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultActivity;
-import com.example.avjindersinghsekhon.minimaltodo.R;
+import com.example.kmob.AppDefault.AppDefaultActivity;
+import com.example.kmob.R;
 
 public class ReminderActivity extends AppDefaultActivity {
 

@@ -8,10 +8,10 @@ import android.support.v7.app.ActionBar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.avjindersinghsekhon.minimaltodo.About.AboutActivity;
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultActivity;
-import com.example.avjindersinghsekhon.minimaltodo.R;
-import com.example.avjindersinghsekhon.minimaltodo.Settings.SettingsActivity;
+import com.example.kmob.About.AboutActivity;
+import com.example.kmob.AppDefault.AppDefaultActivity;
+import com.example.kmob.R;
+import com.example.kmob.Settings.SettingsActivity;
 
 public class MainActivity extends AppDefaultActivity {
 

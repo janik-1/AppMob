@@ -7,9 +7,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.avjindersinghsekhon.minimaltodo.Analytics.AnalyticsApplication;
-import com.example.avjindersinghsekhon.minimaltodo.AppDefault.AppDefaultFragment;
-import com.example.avjindersinghsekhon.minimaltodo.R;
+import com.example.kmob.Analytics.AnalyticsApplication;
+import com.example.kmob.AppDefault.AppDefaultFragment;
+import com.example.kmob.R;
 
 public class AboutFragment extends AppDefaultFragment {
 
