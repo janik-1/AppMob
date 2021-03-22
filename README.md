@@ -1,6 +1,6 @@
 
 # Screenshots:
-<img src="https://github.com/avjinder/Toodle/blob/master/screenshots/screenshot_notification.png" height="400px"/>
-<img src="https://github.com/avjinder/Toodle/blob/master/screenshots/screenshot_todo_snooze.png" height="400px"/>
+[img]https://zupimages.net/up/21/12/n5tg.png[/img]
+[img]https://zupimages.net/up/21/12/0kqe.png[/img]
 
 
