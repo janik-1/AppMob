@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376944764522",
+    "firebase_url": "https://appmob-ea4b8.firebaseio.com",
+    "project_id": "appmob-ea4b8",
+    "storage_bucket": "appmob-ea4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376944764522:android:06c4c1dfc1a3ad4c940c13",
+        "android_client_info": {
+          "package_name": "com.appmob.klast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376944764522-e4pqekc71a5c5q9ff1gk3u1k3niq0f8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBm1hFWXBaiLlZSVYYmZhrc2L6P9e4Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376944764522-e4pqekc71a5c5q9ff1gk3u1k3niq0f8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

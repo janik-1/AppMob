@@ -1,1 +1,2 @@
-include ':myapplication'
+rootProject.name='Klast'
+include ':app'
